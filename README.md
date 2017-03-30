@@ -9,7 +9,7 @@ This project has [JoyToKey](http://joytokey.net/) key mappings for the [Nintendo
     * [Setting Up JoyToKey](#setting-up-joytokey)
     * [Using Configurations](#using-configurations)
     * [Copying Templates](#copying-templates)
-* [JoyCon L/R Template](#joycon-l-r-template)
+* [JoyCon L/R Template](#joycon-lr-template)
 * [JoyCon L Template](#joycon-l-template)
 * [JoyCon R Template](#joycon-r-template)
 * [JoyCon R Slides](#joycon-r-slides)
