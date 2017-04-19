@@ -28,7 +28,7 @@ You are now paired.
 
 ### Setting Up JoyToKey
 
-!. Download [JoyToKey](http://joytokey.net/)
+1. Download [JoyToKey](http://joytokey.net/)
 2. Unzip the file
 3. Copy each configuration into the JoyToKey directory that you just created
 4. Open JoyToKey
